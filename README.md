@@ -9,6 +9,6 @@
   </a>
 <p>
   
-  <p>
+  <h2>
 Training material for the 14.0 edition
-  <p>
+  <h2>
